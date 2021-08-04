@@ -1,4 +1,4 @@
-[![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)]
+![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)
 # adventure
 
 A [gophercises](https://gophercises.com/) exercise project for GoLang introductionary course.
